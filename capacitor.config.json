@@ -1,1 +1,6 @@
-
+{
+  "appId": "com.yanz.store",
+  "appName": "YANZ STORE",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
