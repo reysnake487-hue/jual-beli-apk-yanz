@@ -1,1 +1,14 @@
-
+{
+  "name": "yanz-store",
+  "version": "1.0.0",
+  "description": "YANZ STORE Android App",
+  "scripts": {
+    "build": "mkdir -p www && cp index.html www/index.html"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0"
+  }
+}
